@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(30): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(176): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(199): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(203): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(318): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(209): warning C4715: 'adaptiveHuffmanDecoding': not all control paths return a value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(330): warning C4715: 'addNewNode': not all control paths return a value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(364): warning C4715: 'reBalance': not all control paths return a value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(347): warning C4715: 'addExistedNode': not all control paths return a value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(415): warning C4715: 'findChar': not all control paths return a value
+  AdaptiveHuffman.vcxproj -> C:\Users\MSI\source\repos\AdaptiveHuffman\x64\Debug\AdaptiveHuffman.exe

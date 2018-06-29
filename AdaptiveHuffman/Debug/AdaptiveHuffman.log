@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(27): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(132): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(148): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(151): warning C4309: 'argument': truncation of constant value
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\source\repos\adaptivehuffman\adaptivehuffman\source.cpp(73): warning C4715: 'takeAddress': not all control paths return a value
+  AdaptiveHuffman.vcxproj -> C:\Users\MSI\source\repos\AdaptiveHuffman\Debug\AdaptiveHuffman.exe
